@@ -4,7 +4,7 @@ A command-line tool for batch generating multiple image sizes for responsive web
 
 Drop your source images into a folder, tell Responsizer what widths (or heights) you need, and it generates all variants with consistent naming ready for your HTML. It can also produce WebP and AVIF copies alongside the originals for modern browsers.
 
-Responsizer is a Python script that runs in the terminal. It requires Python and the Pillow library. It works on macOS, Windows, and Linux.
+Responsizer is a Python script that runs in the terminal. It requires Python and the Pillow library. It should work on macOS, Windows, and Linux, but has only been tested on macOS so far.
 
 **Input:** `your-image.png` (2400×1600 px)
 
